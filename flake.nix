@@ -1,0 +1,3 @@
+{
+  outputs = {self}: { c = import ./.; };
+}
